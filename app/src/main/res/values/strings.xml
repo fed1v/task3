@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">task_3</string>
+    <string name="load_image">Load Image</string>
+    <string name="task_3_1">Task 3.1</string>
+    <string name="austria">Austria</string>
+    <string name="poland">Poland</string>
+    <string name="italy">Italy</string>
+    <string name="colombia">Colombia</string>
+    <string name="madagascar">Madagascar</string>
+    <string name="denmark">Denmark</string>
+    <string name="switzerland">Switzerland</string>
+    <string name="thailand">Thailand</string>
+    <string name="task_3_2">Task 3.2</string>
+    <string name="image_url">Image URL</string>
+</resources>
+
